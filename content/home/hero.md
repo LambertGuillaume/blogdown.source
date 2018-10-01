@@ -27,7 +27,7 @@ weight = 3
 
 Guillaume Lambert
 <br>
-<small>A short description of myself here</small>
+<small>Actuellement élève en bachelier de sciences biologiques.</small>
 <br><br>
 
 <script type="text/javascript">
