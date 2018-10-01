@@ -1,3 +1,3 @@
-# FIRSTNAME FAMILYNAME's Web Site
+# Guillaume Lambert's Web Site
 
-This is served as https://USERNAME.github.io, and the sources are in https://github.com/USERNAME/blogdown.source-USERNAME.
+This is served as https://LambertGuillaume.github.io, and the sources are in https://github.com/LambertGuillaume/blogdown.source-LambertGuillaume.
