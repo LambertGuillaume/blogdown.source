@@ -14,6 +14,7 @@ weight = 5
     "Informatique",
     "Zoologie",
     "Botanique",
+    "Reptiles",
     "..."
   ]
 
@@ -37,4 +38,4 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+Je suis étudiant en Biologie à l'université de Mons. Je suis passionné de manga et d'animé. J'aime bouger et aller en forêt.
