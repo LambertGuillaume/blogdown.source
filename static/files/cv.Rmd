@@ -29,7 +29,7 @@ urlcolor: blue
 
 # EMPLOIS
 
-*Job étudiant:*
+*Job étudiant:*, aucun job étudiant pour l'instant.
 
  > Activité réalisée \hfill 2017--2018
 
