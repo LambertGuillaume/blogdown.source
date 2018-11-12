@@ -29,9 +29,9 @@ urlcolor: blue
 
 # EMPLOIS
 
-*Job étudiant:*, aucun job étudiant pour l'instant.
+*Job étudiant:*,
 
- > Activité réalisée \hfill 2017--2018
+ > Activité réalisée, aucun job étudiant réalisé pour l'instant mais ne demande qu'a se remplir \hfill 2017--2018
 
 *Autre emploi:*
 
