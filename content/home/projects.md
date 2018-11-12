@@ -40,5 +40,8 @@ filter_default = 0
   name = "Other"
   tag = ".miscellaneous"
 
+[[filter]]
+  name = "Informatica"
+  tag = ".informatica"
 +++
 
