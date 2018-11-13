@@ -10,8 +10,8 @@ image_preview="photo-bio-an1.jpg"
 tags=["sciences","info"]
 
 [Header]
-image="photo-bio-an1.jpg"
-caption = "Image credit: **Trevor Cole** on Unsplash"
+image="photo-bio-an1 - Copie.jpg"
+caption = "Image credit: **Guillaume Lambert**"
 +++
 
 ajout d'images
